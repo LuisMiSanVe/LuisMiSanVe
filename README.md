@@ -17,7 +17,7 @@ Desarrollador Junior de .Net
 Subiré proyectos que me parezcan interantes que hago en el trabajo, junto con otros proyectos personales que he creado. Aqui hay algunos ejemplos de lo que hago:
 > [!NOTE]
 > Toda la información sensible y confidencial ha sido eliminada antes de subirse.
-- [REST API en C# con OAuth 2.0:]([https://github.com/LuisMiSanVe](https://github.com/LuisMiSanVe/OAuth_API/tree/main))\
+- [REST API en C# con OAuth 2.0:](https://github.com/LuisMiSanVe/OAuth_API/tree/main)\
   Una API securizada que necesita de usuarios que inicien sesión para acceder a endpoints usando Tokens JWT Bearer que son validados con OAuth 2.0.
 
 - [C#-PHP REST API:](https://github.com/LuisMiSanVe)\
