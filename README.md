@@ -9,6 +9,7 @@ Soy un entusiasta desarrollador español que le encanta crear proyectos como RES
 Desarrollador Junior de .Net
 ### 🔧 Tecnologías Conocidas:
 - Lenguajes: C#, Java, PHP, JavaScript, PL/SQL
+- Web: HTML, CSS, XML, JSON
 - Frameworks: .NET Core, ASP.NET Core
 - Bases de datos: SQL Server, PostgreSQL, MySQL
 - Herramientas: Postman, Swagger UI, Visual Studio, VS Code, Android Studio, NetBeans
