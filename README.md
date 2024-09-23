@@ -17,13 +17,13 @@ Desarrollador Junior de .Net
 Subiré proyectos que me parezcan interantes que hago en el trabajo, junto con otros proyectos personales que he creado. Aqui hay algunos ejemplos de lo que hago:
 > [!NOTE]
 > Toda la información sensible y confidencial ha sido eliminada antes de subirse.
-- [.Net REST API con OAuth 2.0:](https://github.com/LuisMiSanVe)\
+- [REST API en C# con OAuth 2.0:]([https://github.com/LuisMiSanVe](https://github.com/LuisMiSanVe/OAuth_API/tree/main))\
   Una API securizada que necesita de usuarios que inicien sesión para acceder a endpoints usando Tokens JWT Bearer que son validados con OAuth 2.0.
 
-- [.Net-PHP REST API:](https://github.com/LuisMiSanVe)\
+- [C#-PHP REST API:](https://github.com/LuisMiSanVe)\
   Para hacer que los usuarios accedan a la base de datos de manera menos directa, esta REST API en C# se comunica con otra REST API en PHP que es la que hace todas las intervenciones en la BBDD.
 
-- [Java Android App que se actualiza a si misma:](https://github.com/LuisMiSanVe)\
+- [App de android en Java que se actualiza a si misma:](https://github.com/LuisMiSanVe)\
   Una aplicación auxiliar que, al implementarse en otra app, es capaz de actualizarla automaticamente de la manera más eficiente posible.
 
 ## 📫 Contáctame
