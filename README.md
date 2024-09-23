@@ -20,5 +20,5 @@ I’m uploading interesting projects I develop at work (after removing all sensi
   Auxiliar App capable of updating another apps in the most automatic way possible.
 
 ## 📫 Let's Connect
-LinkedIn: Your LinkedIn Profile\
-Portfolio: Your Website or Portfolio Link
+LinkedIn: [My profile](https://www.linkedin.com/in/luis-miguel-s%C3%A1nchez-967024326/)\
+Portfolio: [LinkTree Portfolio](https://linktr.ee/luismiguelsanchez)
