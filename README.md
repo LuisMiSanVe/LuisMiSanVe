@@ -7,7 +7,7 @@ I'm a passionate Spanish developer who enjoys building projects such as C# or PH
 ### 💼 Working as:
 Junior .NET Developer
 ### 🔧 Tech Stack:
-- Languages: C#, Java, PHP, JavaScript, PL/SQL, Bash
+- Languages: C#, Java, PHP, JavaScript, PL/SQL
 - Frameworks: .NET Core, ASP.NET Core
 - Databases: SQL Server, PostgreSQL, MySQL
 - Tools: Postman, Swagger UI, Visual Studio, VS Code, Android Studio, NetBeans
