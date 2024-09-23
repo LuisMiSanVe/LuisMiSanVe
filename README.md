@@ -1,5 +1,5 @@
 # 👋 Welcome to my profile!
-I'm a passionate C# developer who enjoys building projects such as C# or PHP REST APIs, Android Java Apps, Windows Forms programs, and much more!
+I'm a passionate Spanish C# developer who enjoys building projects such as C# or PHP REST APIs, Android Java apps, Windows Forms programs, and much more!
 ## 🚀 About Me
 ### 🌱 Learning:
 - [x] C#, .NET, RESTful APIs, ASP.NET Core, Android Java Apps
