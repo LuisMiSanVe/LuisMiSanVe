@@ -20,10 +20,10 @@ I’m uploading interesting projects I develop at work, along with other persona
 - [C# REST API with OAuth 2.0:](https://github.com/LuisMiSanVe/OAuth_API/tree/main)\
   A secure API that requires users to log in to access endpoints using JWT Bearer Tokens, which are validated with OAuth 2.0.
 
-- [C#-PHP REST API:](https://github.com/LuisMiSanVe)\
+- [C#-PHP REST API:](https://github.com/LuisMiSanVe/CSharpPHP_API)\
   To prevent direct database access by users, this C# REST API communicates with a PHP REST API that handles all database interactions.
 
-- [Java Android App that updates itself:](https://github.com/LuisMiSanVe)\
+- [Java Android App that updates itself:](https://github.com/LuisMiSanVe/AutoUpdaterAndroid)\
   An auxiliary app that, when added to another app, is capable of updating it automatically in the most efficient way possible.
 
 ## 📫 Let's Connect
