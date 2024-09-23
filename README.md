@@ -1,29 +1,29 @@
-# 👋 Welcome to my profile!
-I'm a passionate Spanish developer who enjoys building projects such as C# or PHP REST APIs, Android Java apps, Windows Forms programs, Linux Bash scripts and much more!
-## 🚀 About Me
-### 🌱 Learning:
+# 👋 ¡Bienvenido a mi perfil!
+Soy un entusiasta desarrollador español que le encanta crear proyectos como REST APIs en C# o PHP, aplicaciones de Android con Java, programas de Windows Forms, Scripts de Linux Bash ¡y mucho más!
+## 🚀 Sobre mi
+### 🌱 Aprendiendo:
 - [x] C#, .NET, RESTful APIs, ASP.NET Core, Android Java Apps
 - [ ] Unity.
-### 💼 Working as:
-Junior .NET Developer
-### 🔧 Tech Stack:
-- Languages: C#, Java, PHP, JavaScript, PL/SQL
+### 💼 Trabajando como:
+Desarrollador Junior de .Net
+### 🔧 Tecnologías Conocidas:
+- Lenguajes: C#, Java, PHP, JavaScript, PL/SQL
 - Frameworks: .NET Core, ASP.NET Core
-- Databases: SQL Server, PostgreSQL, MySQL
-- Tools: Postman, Swagger UI, Visual Studio, VS Code, Android Studio, NetBeans
-## 📚 Projects
-I’m uploading interesting projects I develop at work, along with other personal projects I've created. Here’s a sneak peek of some things I’m working on:
+- Bases de datos: SQL Server, PostgreSQL, MySQL
+- Herramientas: Postman, Swagger UI, Visual Studio, VS Code, Android Studio, NetBeans
+## 📚 Proyectos
+Subiré proyectos que me parezcan interantes que hago en el trabajo, junto con otros proyectos personales que he creado. Aqui hay algunos ejemplos de lo que hago:
 > [!NOTE]
-> All sensitive and confidential data is removed before uploading.
-- [.Net REST API with OAuth 2.0:](https://github.com/LuisMiSanVe)\
-  A secure API that requires users to log in to access endpoints using JWT Bearer Tokens, which are validated with OAuth 2.0.
+> Toda la información sensible y confidencial ha sido eliminada antes de subirse.
+- [.Net REST API con OAuth 2.0:](https://github.com/LuisMiSanVe)\
+  Una API securizada que necesita de usuarios que inicien sesión para acceder a endpoints usando Tokens JWT Bearer que son validados con OAuth 2.0.
 
 - [.Net-PHP REST API:](https://github.com/LuisMiSanVe)\
-  To prevent direct database access by users, this C# REST API communicates with a PHP REST API that handles all database interactions.
+  Para hacer que los usuarios accedan a la base de datos de manera menos directa, esta REST API en C# se comunica con otra REST API en PHP que es la que hace todas las intervenciones en la BBDD.
 
-- [Java Android App that updates itself:](https://github.com/LuisMiSanVe)\
-  An auxiliary app that, when added to another app, is capable of updating it automatically in the most efficient way possible.
+- [Java Android App que se actualiza a si misma:](https://github.com/LuisMiSanVe)\
+  Una aplicación auxiliar que, al implementarse en otra app, es capaz de actualizarla automaticamente de la manera más eficiente posible.
 
-## 📫 Let's Connect
-LinkedIn: [My profile](https://www.linkedin.com/in/luis-miguel-s%C3%A1nchez-967024326/)\
-Portfolio: [LinkTree Portfolio](https://linktr.ee/luismiguelsanchez)
+## 📫 Contáctame
+LinkedIn: [Mi perfil](https://www.linkedin.com/in/luis-miguel-s%C3%A1nchez-967024326/)\
+Portfolio: [Portfolio de LinkTree](https://linktr.ee/luismiguelsanchez)
