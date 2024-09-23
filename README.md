@@ -14,7 +14,7 @@ Junior .NET Developer
 - Databases: SQL Server, PostgreSQL, MySQL
 - Tools: Postman, Swagger UI, Visual Studio, VS Code, Android Studio, NetBeans
 ## 📚 Projects
-I’m uploading interesting projects I develop at work, along with other personal projects I've created. Here’s a sneak peek of some things I’m working on:
+I’ll be uploading interesting projects I develop at work, along with other personal projects I create. Here’s a sneak peek of some things I worked on:
 > [!NOTE]
 > All sensitive and confidential data is removed before uploading.
 - [C# REST API with OAuth 2.0:](https://github.com/LuisMiSanVe/OAuth_API)\
