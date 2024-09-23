@@ -1,5 +1,5 @@
 # 👋 Welcome to my profile!
-I'm a passionate Spanish C# developer who enjoys building projects such as C# or PHP REST APIs, Android Java apps, Windows Forms programs, and much more!
+I'm a passionate Spanish developer who enjoys building projects such as C# or PHP REST APIs, Android Java apps, Windows Forms programs, Linux Bash scripts and much more!
 ## 🚀 About Me
 ### 🌱 Learning:
 - [x] C#, .NET, RESTful APIs, ASP.NET Core, Android Java Apps
@@ -7,12 +7,12 @@ I'm a passionate Spanish C# developer who enjoys building projects such as C# or
 ### 💼 Working as:
 Junior .NET Developer
 ### 🔧 Tech Stack:
-- Languages: C#, Java, PHP
+- Languages: C#, Java, PHP, JavaScript, PL/SQL, Bash
 - Frameworks: .NET Core, ASP.NET Core
-- Databases: SQL Server, PostgreSQL
-- Tools: Postman, Swagger UI, Visual Studio, Android Studio
+- Databases: SQL Server, PostgreSQL, MySQL
+- Tools: Postman, Swagger UI, Visual Studio, VS Code, Android Studio, NetBeans
 ## 📚 Projects
-I’m uploading interesting projects I develop at work. Here’s a sneak peek of some things I’m working on:
+I’m uploading interesting projects I develop at work, along with other personal projects I've created. Here’s a sneak peek of some things I’m working on:
 > [!NOTE]
 > All sensitive and confidential data is removed before uploading.
 - [.Net REST API with OAuth 2.0:](https://github.com/LuisMiSanVe)\
