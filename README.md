@@ -1,7 +1,8 @@
 # 👋 Welcome to my profile!
 I'm a passionate C# developer who enjoys building projects such as C# or PHP REST APIs, Android Java Apps, Windows Forms programs, and much more!
 ## 🚀 About Me
-### 🌱 Pending to learn:
+### 🌱 Learning:
+- [x] C#, .NET, RESTful APIs, ASP.NET Core, Android Java Apps
 - [ ] Unity.
 ### 💼 Working as:
 Junior .NET Developer
