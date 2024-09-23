@@ -15,13 +15,13 @@ Junior .NET Developer
 I’m uploading interesting projects I develop at work. Here’s a sneak peek of some things I’m working on:
 > [!NOTE]
 > All sensitive and confidential data is removed before uploading.
-- .Net REST API with OAuth 2.0:\
+- [.Net REST API with OAuth 2.0:](https://github.com/LuisMiSanVe)\
   A secure API that requires users to log in to access endpoints using JWT Bearer Tokens, which are validated with OAuth 2.0.
 
-- .Net-PHP REST API:\
+- [.Net-PHP REST API:](https://github.com/LuisMiSanVe)\
   To prevent direct database access by users, this C# REST API communicates with a PHP REST API that handles all database interactions.
 
-- Java Android App that updates itself:\
+- [Java Android App that updates itself:](https://github.com/LuisMiSanVe)\
   An auxiliary app that, when added to another app, is capable of updating it automatically in the most efficient way possible.
 
 ## 📫 Let's Connect
