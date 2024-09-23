@@ -2,7 +2,7 @@
 I'm a passionate C# developer who enjoys building projects such as C# or PHP REST APIs, Android Java Apps, Windows Forms programs, and much more!
 ## 🚀 About Me
 ### 🌱 Pending to learn:
-[ ] Unity.
+- [ ] Unity.
 ### 💼 Working as:
 Junior .NET Developer
 ### 🔧 Tech Stack:
