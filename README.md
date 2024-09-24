@@ -14,7 +14,7 @@ Desarrollador Junior de .Net
 - Bases de datos: SQL Server, PostgreSQL, MySQL
 - Herramientas: Postman, Swagger UI, Visual Studio, VS Code, Android Studio, NetBeans
 ## 📚 Proyectos
-Subiré proyectos que me parezcan interantes que hago en el trabajo, junto con otros proyectos personales que he creado. Aqui hay algunos ejemplos de lo que hago:
+Subiré los proyectos que me parezcan interantes que vaya creando. Aqui hay algunos ejemplos de lo que hago:
 > [!NOTE]
 > Toda la información sensible y confidencial ha sido eliminada antes de subirse.
 - [REST API en C# con OAuth 2.0:](https://github.com/LuisMiSanVe/OAuth_API)\
