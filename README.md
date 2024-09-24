@@ -24,7 +24,7 @@ I’ll be uploading interesting projects I develop. Here’s a sneak peek of som
   To prevent direct database access by users, this C# REST API communicates with a PHP REST API that handles all database interactions.
 
 - [Java Android App that updates itself:](https://github.com/LuisMiSanVe/AutoUpdaterAndroid)\
-  An auxiliary app that, when added to another app, is capable of updating it automatically in the most efficient way possible.
+  Two projects with Apps that updates themselves using FTP.
 
 ## 📫 Let's Connect
 LinkedIn: [My profile](https://www.linkedin.com/in/luis-miguel-s%C3%A1nchez-967024326/)\
