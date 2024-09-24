@@ -24,7 +24,7 @@ Subiré los proyectos que me parezcan interesantes que vaya creando. Aqui hay al
   Para hacer que los usuarios accedan a la base de datos de manera menos directa, esta REST API en C# se comunica con otra REST API en PHP que es la que hace todas las intervenciones en la BBDD.
 
 - [App de android en Java que se actualiza a si misma:](https://github.com/LuisMiSanVe/AutoUpdaterAndroid)\
-  Una aplicación auxiliar que, al implementarse en otra app, es capaz de actualizarla automaticamente de la manera más eficiente posible.
+  Dos proyectos con aplicaciones que se actualizan a sí mismas usando FTP.
 
 ## 📫 Contáctame
 LinkedIn: [Mi perfil](https://www.linkedin.com/in/luis-miguel-s%C3%A1nchez-967024326/)\
