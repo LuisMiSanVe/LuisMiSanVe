@@ -29,4 +29,4 @@ I’ll be uploading interesting projects I develop. Here’s a sneak peek of som
 ## 📫 Let's Connect
 LinkedIn: [LinkedIn profile](https://www.linkedin.com/in/luis-miguel-s%C3%A1nchez-967024326/)\
 StackExchange: [StackOverflow & AskUbuntu profiles](https://stackexchange.com/users/25822412/luis-miguel-sánchez?tab=accounts)\
-Portfolio: [LinkTree Portfolio](https://linktr.ee/luismiguelsanchez)\
+Portfolio: [LinkTree Portfolio](https://linktr.ee/luismiguelsanchez)
