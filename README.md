@@ -28,4 +28,5 @@ Subiré los proyectos que me parezcan interesantes que vaya creando. Aqui hay al
 
 ## 📫 Contáctame
 LinkedIn: [Mi perfil](https://www.linkedin.com/in/luis-miguel-s%C3%A1nchez-967024326/)\
+StackExchange: [Perfiles de StackOverflow y AskUbuntu](https://stackexchange.com/users/25822412/luis-miguel-sánchez?tab=accounts)\
 Portfolio: [Portfolio de LinkTree](https://linktr.ee/luismiguelsanchez)
