@@ -2,9 +2,6 @@
 # 👋 Welcome to my profile!
 I'm a passionate Spanish developer who enjoys building projects such as C# or PHP REST APIs, Android Java apps, Windows Forms programs, Linux Bash scripts and much more!
 ## 🚀 About Me
-### 🌱 Learning:
-- [x] C#, .NET, RESTful APIs, ASP.NET Core, Android Java Apps
-- [ ] Unity.
 ### 💼 Working as:
 Junior .NET Developer
 ### 🔧 Tech Stack:
@@ -12,7 +9,8 @@ Junior .NET Developer
 - Web: HTML, CSS, XML, JSON
 - Frameworks: .NET Core, ASP.NET Core
 - Databases: SQL Server, PostgreSQL, MySQL
-- Tools: Postman, Swagger UI, Visual Studio, VS Code, Android Studio, NetBeans
+- Technologies: Oauth 2.0, JWT Token, Gemini API, Swagger UI
+- Tools: Postman, Visual Studio, VS Code, Android Studio, NetBeans
 ## 📚 Projects
 I’ll be uploading interesting projects I develop. Here’s a sneak peek of some things I worked on:
 > [!NOTE]
