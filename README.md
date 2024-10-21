@@ -16,7 +16,7 @@ I’ll be uploading interesting projects I develop. Here’s a sneak peek of som
 > [!NOTE]
 > All sensitive and confidential data is removed before uploading.
 - [C# REST API with OAuth 2.0:](https://github.com/LuisMiSanVe/OAuth_API)\
-  A secure API that requires users to log in to access endpoints using JWT Bearer Tokens, which are validated with OAuth 2.0.
+  A template for secure APIs that requires users to log in to access endpoints using JWT Bearer Tokens, which are validated with OAuth 2.0.
 
 - [C#-PHP REST API:](https://github.com/LuisMiSanVe/CSharpPHP_API)\
   To prevent direct database access by users, this C# REST API communicates with a PHP REST API that handles all database interactions.
