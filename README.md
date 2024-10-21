@@ -16,7 +16,7 @@ Subiré los proyectos que me parezcan interesantes que vaya creando. Aqui hay al
 > [!NOTE]
 > Toda la información sensible y confidencial ha sido eliminada antes de subirse.
 - [REST API en C# con OAuth 2.0:](https://github.com/LuisMiSanVe/OAuth_API)\
-  Una API securizada que necesita de usuarios que inicien sesión para acceder a endpoints usando Tokens JWT Bearer que son validados con OAuth 2.0.
+  Una plantilla para APIs securizadas que necesitan de usuarios que inicien sesión para acceder a endpoints usando Tokens JWT Bearer que son validados con OAuth 2.0.
 
 - [C#-PHP REST API:](https://github.com/LuisMiSanVe/CSharpPHP_API)\
   Para hacer que los usuarios accedan a la base de datos de manera menos directa, esta REST API en C# se comunica con otra REST API en PHP que es la que hace todas las intervenciones en la BBDD.
