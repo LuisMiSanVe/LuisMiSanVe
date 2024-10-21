@@ -2,17 +2,15 @@
 # 👋 ¡Bienvenido a mi perfil!
 Soy un entusiasta desarrollador español que le encanta crear proyectos como REST APIs en C# o PHP, aplicaciones de Android con Java, programas de Windows Forms, Scripts de Linux Bash ¡y mucho más!
 ## 🚀 Sobre mi
-### 🌱 Aprendiendo:
-- [x] C#, .NET, RESTful APIs, ASP.NET Core, Android Java Apps
-- [ ] Unity.
 ### 💼 Trabajando como:
 Desarrollador Junior de .Net
-### 🔧 Tecnologías Conocidas:
+### 🔧 Tecnologías conocidas:
 - Lenguajes: C#, Java, PHP, JavaScript, PL/SQL
 - Web: HTML, CSS, XML, JSON
 - Frameworks: .NET Core, ASP.NET Core
 - Bases de datos: SQL Server, PostgreSQL, MySQL
-- Herramientas: Postman, Swagger UI, Visual Studio, VS Code, Android Studio, NetBeans
+- Tecnologías: Oauth 2.0, JWT Token, Gemini API, Swagger UI
+- Herramientas: Postman, Visual Studio, VS Code, Android Studio, NetBeans
 ## 📚 Proyectos
 Subiré los proyectos que me parezcan interesantes que vaya creando. Aqui hay algunos ejemplos de lo que hago:
 > [!NOTE]
