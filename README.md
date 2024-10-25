@@ -12,14 +12,14 @@ Junior .NET Developer
 - Technologies: Oauth 2.0, JWT Token, Gemini API, Swagger UI
 - Tools: Postman, Visual Studio, VS Code, Android Studio, NetBeans
 ## 📚 Projects
-I’ll be uploading interesting projects I develop. Here’s a sneak peek of some things I worked on:
+I’ll be uploading projects I develop. Here’s a sneak peek of some interesting things I worked on:
 > [!NOTE]
 > All sensitive and confidential data is removed before uploading.
 - [C# REST API with OAuth 2.0:](https://github.com/LuisMiSanVe/OAuth_API)\
   A template for secure APIs that requires users to log in to access endpoints using JWT Bearer Tokens, which are validated with OAuth 2.0.
 
-- [C#-PHP REST API:](https://github.com/LuisMiSanVe/CSharpPHP_API)\
-  To prevent direct database access by users, this C# REST API communicates with a PHP REST API that handles all database interactions.
+- [AI-Assisted Database REST API:](https://github.com/LuisMiSanVe/AI_DB_REST_API)\
+  REST API with different AI powered methods to query a PostgreSQL database with natural lenguage.
 
 - [Java Android App that updates itself:](https://github.com/LuisMiSanVe/AutoUpdaterAndroid)\
   Two projects with Apps that updates themselves using FTP.
