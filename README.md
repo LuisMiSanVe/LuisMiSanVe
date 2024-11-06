@@ -9,8 +9,8 @@ Desarrollador Junior de .Net
 - Web: HTML, CSS, XML, JSON
 - Frameworks: .NET Core, ASP.NET Core
 - Bases de datos: SQL Server, PostgreSQL, MySQL
-- Tecnologías: Oauth 2.0, JWT Token, Gemini API, Swagger UI
-- Herramientas: Postman, Visual Studio, VS Code, Android Studio, NetBeans
+- Tecnologías: Oauth 2.0, JWT Token, API de IA Gemini, Swagger UI
+- Herramientas: Postman, Visual Studio, VS Code, Android Studio, NetBeans, Github Copilot X
 ## 📚 Proyectos
 Subiré los proyectos que vaya creando. Aqui hay algunos ejemplos de cosas interesantes que he hecho:
 > [!NOTE]
