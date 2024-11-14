@@ -1,6 +1,6 @@
 > [Ver en ingles/See in english](https://github.com/LuisMiSanVe/LuisMiSanVe/blob/main/README.md)
 # 👋 ¡Bienvenido a mi perfil!
-Soy un entusiasta desarrollador español que le encanta crear proyectos como REST APIs en C# o PHP, aplicaciones de Android con Java, programas de Windows Forms, Scripts de Linux Bash ¡y mucho más!
+Soy un entusiasta desarrollador español que le encanta crear proyectos como REST APIs en C# o PHP, aplicaciones de Android con Java, programas de Windows Forms, Scripts Bash para Linux ¡y mucho más!
 ## 🚀 Sobre mi
 ### 💼 Trabajando como:
 Desarrollador Junior de .Net
@@ -9,14 +9,14 @@ Desarrollador Junior de .Net
 - Web: HTML, CSS, XML, JSON
 - Frameworks: .NET Core, ASP.NET Core
 - Bases de datos: SQL Server, PostgreSQL, MySQL
-- Tecnologías: Oauth 2.0, JWT Token, API de IA Gemini, Swagger UI
+- Tecnologías: OAuth 2.0, JWT Token, API de IA Gemini, Swagger UI
 - Herramientas: Postman, Visual Studio, VS Code, Android Studio, NetBeans, Github Copilot X
 ## 📚 Proyectos
-Subiré los proyectos que vaya creando. Aqui hay algunos ejemplos de cosas interesantes que he hecho:
+Subiré (¡y actualizaré!) los proyectos que vaya creando. Aqui hay algunos ejemplos de cosas interesantes que he hecho:
 > [!NOTE]
 > Toda la información sensible y confidencial ha sido eliminada antes de subirse.
 - [REST API en C# con OAuth 2.0:](https://github.com/LuisMiSanVe/OAuth_API)\
-  Una plantilla para APIs securizadas que necesitan de usuarios que inicien sesión para acceder a endpoints usando Tokens JWT Bearer que son validados con OAuth 2.0.
+  Una plantilla para APIs seguras que requieren de usuarios que inicien sesión para acceder a endpoints usando Tokens JWT Bearer que son validados con OAuth 2.0.
 
 - [REST API para bases de datos Asistida por IA:](https://github.com/LuisMiSanVe/AI_DB_REST_API)\
   Una API con diferentes métodos impulsados por IA para hacer solicitudes a un servidor PostgreSQL usando lenguaje natural.
