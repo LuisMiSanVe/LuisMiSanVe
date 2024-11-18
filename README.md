@@ -9,7 +9,7 @@ Desarrollador Junior de .Net
 - Web: HTML, CSS, XML, JSON
 - Frameworks: .NET Core, ASP.NET Core
 - Bases de datos: SQL Server, PostgreSQL, MySQL
-- Tecnologías: OAuth 2.0, JWT Token, API de IA Gemini, Swagger UI
+- Tecnologías: OAuth 2.0, JWT Token, API de IA Gemini, Swagger UI, Unity
 - Herramientas: Postman, Visual Studio, VS Code, Android Studio, NetBeans, Github Copilot X
 ## 📚 Proyectos
 Subiré (¡y actualizaré!) los proyectos que vaya creando. Aqui hay algunos ejemplos de cosas interesantes que he hecho:
@@ -25,6 +25,9 @@ Subiré (¡y actualizaré!) los proyectos que vaya creando. Aqui hay algunos eje
   Dos proyectos con aplicaciones que se actualizan a sí mismas usando FTP.
 
 ## 📫 Contáctame
+- Perfiles Profesionales:\
 LinkedIn: [Mi perfil](https://www.linkedin.com/in/luis-miguel-s%C3%A1nchez-967024326/)\
 StackExchange: [Perfiles de StackOverflow y AskUbuntu](https://stackexchange.com/users/25822412/luis-miguel-sánchez?tab=accounts)\
 Portfolio: [Portfolio de LinkTree](https://linktr.ee/luismiguelsanchez)
+- Perfil de Desarrollador de Juegos:\
+itch.io: [Perfil de Komma](https://kommagames.itch.io/)
