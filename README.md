@@ -9,7 +9,7 @@ Junior .NET Developer
 - Web: HTML, CSS, XML, JSON
 - Frameworks: .NET Core, ASP.NET Core
 - Databases: SQL Server, PostgreSQL, MySQL
-- Technologies: Oauth 2.0, JWT Token, Gemini AI API, Swagger UI
+- Technologies: Oauth 2.0, JWT Token, Gemini AI API, Swagger UI, Unity
 - Tools: Postman, Visual Studio, VS Code, Android Studio, NetBeans, Github Copilot X
 ## 📚 Projects
 I’ll be uploading (and updating!) projects I develop. Here’s a sneak peek of some interesting things I worked on:
@@ -25,6 +25,9 @@ I’ll be uploading (and updating!) projects I develop. Here’s a sneak peek of
   Two projects with apps that update themselves using FTP.
 
 ## 📫 Let's Connect
+- Professional Profiles:\
 LinkedIn: [LinkedIn profile](https://www.linkedin.com/in/luis-miguel-s%C3%A1nchez-967024326/)\
 StackExchange: [StackOverflow & AskUbuntu profiles](https://stackexchange.com/users/25822412/luis-miguel-sánchez?tab=accounts)\
 Portfolio: [LinkTree Portfolio](https://linktr.ee/luismiguelsanchez)
+- Game Developer Profile:\
+itch.io: [Komma Profile](https://kommagames.itch.io/)
