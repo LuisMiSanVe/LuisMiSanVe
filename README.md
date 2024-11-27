@@ -14,7 +14,7 @@ Junior .NET Developer
 ## 📚 Projects
 I’ll be uploading (and updating!) projects I develop. Here’s a sneak peek of some interesting things I worked on:
 > [!NOTE]
-> All sensitive and confidential data is removed before uploading.
+> All possible sensitive and confidential data is removed before uploading.
 - [C# REST API with OAuth 2.0:](https://github.com/LuisMiSanVe/OAuth_API)\
   A template for secure APIs that requires users to log in to access endpoints using JWT Bearer Tokens, which are validated with OAuth 2.0.
 
