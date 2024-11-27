@@ -1,4 +1,5 @@
-> [Ver en ingles/See in english](https://github.com/LuisMiSanVe/LuisMiSanVe/blob/main/README.md)
+> [Ver en ingles/See in english](https://github.com/LuisMiSanVe/LuisMiSanVe/blob/main/README.md)\
+> ¡Todos los repositorios tienen versiones en inglés y español!
 # 👋 ¡Bienvenido a mi perfil!
 Soy un entusiasta desarrollador español que le encanta crear proyectos como REST APIs en C# o PHP, aplicaciones de Android con Java, programas de Windows Forms, Scripts Bash para Linux ¡e incluso juegos de Unity!
 ## 🚀 Sobre mi
