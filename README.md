@@ -26,9 +26,7 @@ Subiré (¡y actualizaré!) los proyectos que vaya creando. Aqui hay algunos eje
   Dos proyectos con aplicaciones que se actualizan a sí mismas usando FTP.
 
 ## 📫 Contáctame
-- Perfiles Profesionales:\
-LinkedIn: [Mi perfil](https://www.linkedin.com/in/luis-miguel-s%C3%A1nchez-967024326/)\
-StackExchange: [Perfiles de StackOverflow y AskUbuntu](https://stackexchange.com/users/25822412/luis-miguel-sánchez?tab=accounts)\
-Portfolio: [Portfolio de LinkTree](https://linktr.ee/luismiguelsanchez)
-- Perfil de Desarrollador de Juegos:\
-itch.io: [Perfil de Komma](https://kommagames.itch.io/)
+[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luis-miguel-s%C3%A1nchez-967024326/)
+[![image](https://img.shields.io/badge/StackExchange-1E5397?&style=for-the-badge&logo=StackExchange&logoColor=white)](https://stackexchange.com/users/25822412/luis-miguel-sánchez?tab=accounts)
+[![image](https://img.shields.io/badge/linktree-1de9b6?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/luismiguelsanchez)
+[![image](https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white)](https://kommagames.itch.io/)
