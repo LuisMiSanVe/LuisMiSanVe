@@ -26,9 +26,7 @@ I’ll be uploading (and updating!) projects I develop. Here’s a sneak peek of
   Two projects with apps that update themselves using FTP.
 
 ## 📫 Let's Connect
-- Professional Profiles:\
-LinkedIn: [LinkedIn profile](https://www.linkedin.com/in/luis-miguel-s%C3%A1nchez-967024326/)\
-StackExchange: [StackOverflow & AskUbuntu profiles](https://stackexchange.com/users/25822412/luis-miguel-sánchez?tab=accounts)\
-Portfolio: [LinkTree Portfolio](https://linktr.ee/luismiguelsanchez)
-- Game Developer Profile:\
-itch.io: [Komma Profile](https://kommagames.itch.io/)
+[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luis-miguel-s%C3%A1nchez-967024326/)
+[![image](https://img.shields.io/badge/StackExchange-1E5397?&style=for-the-badge&logo=StackExchange&logoColor=white)](https://stackexchange.com/users/25822412/luis-miguel-sánchez?tab=accounts)
+[![image](https://img.shields.io/badge/linktree-1de9b6?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/luismiguelsanchez)
+[![image](https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white)](https://kommagames.itch.io/)
