@@ -13,11 +13,11 @@ Desarrollador Junior de .Net
 - Tecnologías: OAuth 2.0, JWT Token, API de IA Gemini, Swagger UI, Unity
 - Herramientas: Postman, Visual Studio, VS Code, Android Studio, NetBeans, Github Copilot X
 ## 📚 Proyectos
-Subiré (¡y actualizaré!) los proyectos que vaya creando. Aqui hay algunos ejemplos de cosas interesantes que he hecho:
+Subiré (¡y actualizaré!) los proyectos que vaya creando. La mayoría son plantillas diseñadas para que desarrolles tus propios proyectos. Aqui hay algunos ejemplos de cosas interesantes que he hecho:
 > [!NOTE]
 > Toda la posible información sensible y confidencial ha sido eliminada antes de subirse.
 - [REST API en C# con OAuth 2.0:](https://github.com/LuisMiSanVe/OAuth_API)\
-  Una plantilla para APIs seguras que requieren de usuarios que inicien sesión para acceder a endpoints usando Tokens JWT Bearer que son validados con OAuth 2.0.
+  Una API segura que requiere de usuarios que inicien sesión para acceder a endpoints usando Tokens JWT Bearer que son validados con OAuth 2.0.
 
 - [REST API para bases de datos Asistida por IA:](https://github.com/LuisMiSanVe/AI_DB_REST_API)\
   Una API con diferentes métodos impulsados por IA para hacer solicitudes a un servidor PostgreSQL usando lenguaje natural.
