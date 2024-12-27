@@ -19,8 +19,8 @@ I’ll be uploading (and updating!) projects I develop. Most are designed to ser
 - [C# REST API with OAuth 2.0:](https://github.com/LuisMiSanVe/OAuth_API)\
   A secure API that requires users to log in to access endpoints using JWT Bearer Tokens, which are validated with OAuth 2.0.
 
-- [AI-Assisted Database REST API:](https://github.com/LuisMiSanVe/AI_DB_REST_API)\
-  REST API with different AI powered methods to query a PostgreSQL database with natural language.
+- [AI-Assisted Database WinForms:](https://github.com/LuisMiSanVe/GeminiPostSQL)\
+  WinForms with a AI powered method to query a PostgreSQL database with natural language.
 
 - [Java Android App that updates itself:](https://github.com/LuisMiSanVe/AutoUpdaterAndroid)\
   Two projects with apps that update themselves using FTP.
