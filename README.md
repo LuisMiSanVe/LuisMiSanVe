@@ -19,8 +19,8 @@ Subiré (¡y actualizaré!) los proyectos que vaya creando. La mayoría son plan
 - [REST API en C# con OAuth 2.0:](https://github.com/LuisMiSanVe/OAuth_API)\
   Una API segura que requiere de usuarios que inicien sesión para acceder a endpoints usando Tokens JWT Bearer que son validados con OAuth 2.0.
 
-- [REST API para bases de datos Asistida por IA:](https://github.com/LuisMiSanVe/AI_DB_REST_API)\
-  Una API con diferentes métodos impulsados por IA para hacer solicitudes a un servidor PostgreSQL usando lenguaje natural.
+- [WinForms para bases de datos Asistida por IA:](https://github.com/LuisMiSanVe/GeminiPostSQL)\
+  Un WinForms con un método impulsado por IA para hacer solicitudes a un servidor PostgreSQL usando lenguaje natural.
 
 - [App de android en Java que se actualiza a si misma:](https://github.com/LuisMiSanVe/AutoUpdaterAndroid)\
   Dos proyectos con aplicaciones que se actualizan a sí mismas usando FTP.
