@@ -6,11 +6,11 @@ Soy un entusiasta desarrollador español que le encanta crear proyectos como RES
 ### 💼 Trabajando como:
 Desarrollador Junior de .Net
 ### 🔧 Tecnologías conocidas:
-- Lenguajes: C#, Java, PHP, JavaScript, PL/SQL
+- Lenguajes: C#, Java, PHP, Python, JavaScript, PL/SQL
 - Web: HTML, CSS, XML, JSON
 - Frameworks: .NET Core, ASP.NET Core
 - Bases de datos: SQL Server, PostgreSQL, MySQL
-- Tecnologías: OAuth 2.0, JWT Token, API de IA Gemini, Swagger UI, Unity
+- Tecnologías: OAuth 2.0, JWT Token, API de IA Gemini, Swagger UI, Unity, PyTorch
 - Herramientas: Postman, Visual Studio, VS Code, Android Studio, NetBeans, Github Copilot X
 ## 📚 Proyectos
 Subiré (¡y actualizaré!) los proyectos que vaya creando. La mayoría son plantillas diseñadas para que desarrolles tus propios proyectos. Aqui hay algunos ejemplos de cosas interesantes que he hecho:
