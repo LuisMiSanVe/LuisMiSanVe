@@ -6,11 +6,11 @@ I'm a passionate Spanish developer who enjoys building projects such as C# or PH
 ### 💼 Working as:
 Junior .NET Developer
 ### 🔧 Tech Stack:
-- Languages: C#, Java, PHP, JavaScript, PL/SQL
+- Languages: C#, Java, PHP, Python, JavaScript, PL/SQL
 - Web: HTML, CSS, XML, JSON
 - Frameworks: .NET Core, ASP.NET Core
 - Databases: SQL Server, PostgreSQL, MySQL
-- Technologies: Oauth 2.0, JWT Token, Gemini AI API, Swagger UI, Unity
+- Technologies: Oauth 2.0, JWT Token, Gemini AI API, Swagger UI, Unity, PyTorch
 - Tools: Postman, Visual Studio, VS Code, Android Studio, NetBeans, Github Copilot X
 ## 📚 Projects
 I’ll be uploading (and updating!) projects I develop. Most are designed to serve as starting templates for your own projects. Here’s a sneak peek of some interesting things I worked on:
