@@ -11,7 +11,7 @@ Junior .NET Developer
 - Frameworks: .NET Core, ASP.NET Core
 - Databases: SQL Server, PostgreSQL, MySQL
 - Technologies: Oauth 2.0, JWT Token, Gemini AI API, Swagger UI, Unity, PyTorch, Firebase, Cloudflare
-- Tools: Postman, Visual Studio, VS Code, Android Studio, NetBeans, Github Copilot X
+- Tools: XAMPP, Postman, Visual Studio, VS Code, Android Studio, NetBeans, Github Copilot X, DevOps
 ## 📚 Projects
 I’ll be uploading (and updating!) projects I develop. Most are designed to serve as starting templates for your own projects. Here’s a sneak peek of some interesting things I worked on:
 > [!NOTE]
