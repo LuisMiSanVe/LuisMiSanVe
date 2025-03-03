@@ -1,29 +1,34 @@
 > [Ver en ingles/See in english](https://github.com/LuisMiSanVe/LuisMiSanVe/blob/main/README.md)\
 > ¡Todos los repositorios tienen versiones en inglés y español!
-# 👋 ¡Bienvenido a mi perfil!
-Soy un entusiasta desarrollador español que le encanta crear proyectos como REST APIs en C# o PHP, aplicaciones de Android con Java, programas de Windows Forms, Scripts Bash para Linux ¡e incluso juegos de Unity!
-## 🚀 Sobre mi
-### 💼 Trabajando como:
+
+<p align="center"><img src="https://github.com/LuisMiSanVe/LuisMiSanVe/blob/main/Resources/komma.gif" style="width: 75%; height: auto;" alt="Komma"></p>
+
+# <img src="https://github.com/LuisMiSanVe/LuisMiSanVe/blob/main/Resources/wave.gif" width=35 height=35 alt="👋"> Perfil de LuisMiSanVe/Komma
+
+<p align="center"><img src="https://readme-typing-svg.herokuapp.com/?lines=¡Bienvenido+a+mi+perfil!;¡Échale+un+vistazo+a+mi+trabajo!;CSharp;Java;PHP;Python;JavaScript;PL/SQL&font=Fira%20Code&color=%FFFFFFFF&center=true&width=500&height=50"></p>
+
+Soy Luis Miguel, en Internet puedes llamarme Komma, soy un entusiasta desarrollador español que le encanta crear proyectos como REST APIs en C# o PHP, aplicaciones de Android con Java, programas de Windows Forms, Scripts Bash para Linux ¡e incluso juegos de Unity!
+## <img src="https://github.com/LuisMiSanVe/LuisMiSanVe/blob/main/Resources/rocket.gif" width=35 height=35 alt="🚀"> Sobre mi
+### <img src="https://github.com/LuisMiSanVe/LuisMiSanVe/blob/main/Resources/suitcase.gif" width=35 height=35 alt="💼"> Trabajando como:
 Desarrollador Junior de .Net
-### 🔧 Tecnologías conocidas:
+### <img src="https://github.com/LuisMiSanVe/LuisMiSanVe/blob/main/Resources/wrench.gif" width=35 height=35 alt="🔧"> Tecnologías conocidas:
 - Lenguajes: C#, Java, PHP, Python, JavaScript, PL/SQL
 - Web: HTML, CSS, XML, JSON
 - Frameworks: .NET Core, ASP.NET Core
 - Bases de datos: SQL Server, PostgreSQL, MySQL
 - Tecnologías: OAuth 2.0, JWT Token, API de IA Gemini, Swagger UI, Unity, PyTorch, Firebase, Cloudflare
 - Herramientas: XAMPP, Postman, Visual Studio, VS Code, Android Studio, NetBeans, Github Copilot X, DevOps
-## 📚 Proyectos
+## <img src="https://github.com/LuisMiSanVe/LuisMiSanVe/blob/main/Resources/books.gif" width=35 height=35 alt="📚"> Proyectos
 Subiré (¡y actualizaré!) los proyectos que vaya creando. La mayoría son plantillas diseñadas para que desarrolles tus propios proyectos. Aqui hay algunos ejemplos de cosas interesantes que he hecho:
 > [!NOTE]
 > Toda la posible información sensible y confidencial ha sido eliminada antes de subirse.
-- [REST API en C# con OAuth 2.0:](https://github.com/LuisMiSanVe/OAuth_API)\
-  Una API segura que requiere de usuarios que inicien sesión para acceder a endpoints usando Tokens JWT Bearer que son validados con OAuth 2.0.
 
-- [WinForms para bases de datos Asistida por IA:](https://github.com/LuisMiSanVe/GeminiPostSQL)\
-  Un WinForms con un método impulsado por IA para hacer solicitudes a un servidor PostgreSQL usando lenguaje natural.
-
-- [App de android en Java que se actualiza a si misma:](https://github.com/LuisMiSanVe/AutoUpdaterAndroid)\
-  Dos proyectos con aplicaciones que se actualizan a sí mismas usando FTP.
+<a align="left" href="https://github.com/LuisMiSanVe/OAuth_API" title="OAuth_API"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=luismisanve&repo=Oauth_API&theme=github_dark_dimmed&border_color=ffffff&border_radius=10"/>
+<br><br><br><br><br><br>
+<a align="left" href="https://github.com/LuisMiSanVe/GeminiPostSQL" title="GeminiPostSQL"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=luismisanve&repo=GeminiPostSQL&theme=github_dark_dimmed&border_color=ffffff&border_radius=10"/>
+<br><br><br><br><br><br>
+<a align="left" href="https://github.com/LuisMiSanVe/AutoUpdaterAndroid" title="AutoUpdaterAndroid"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=luismisanve&repo=AutoUpdaterAndroid&theme=github_dark_dimmed&border_color=ffffff&border_radius=10"/>
+<br><br><br><br><br>
 
 ## 📫 Contáctame
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luis-miguel-s%C3%A1nchez-967024326/)
