@@ -1,31 +1,36 @@
 > [See in spanish/Ver en español](https://github.com/LuisMiSanVe/LuisMiSanVe/blob/main/README.es.md)\
 > All repositories have English and Spanish versions!
-# 👋 Welcome to my profile!
-I'm a passionate Spanish developer who enjoys building projects such as C# or PHP REST APIs, Android Java apps, Windows Forms programs, Linux Bash scripts and even Unity games!
-## 🚀 About Me
-### 💼 Working as:
+
+<p align="center"><img src="https://github.com/LuisMiSanVe/LuisMiSanVe/blob/main/Resources/komma.gif" style="width: 75%; height: auto;" alt="Komma"></p>
+
+# <img src="https://github.com/LuisMiSanVe/LuisMiSanVe/blob/main/Resources/wave.gif" width=35 height=35 alt="👋"> LuisMiSanVe/Komma's profile
+
+<p align="center"><img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+profile!;Check+out+my+work!;CSharp;Java;PHP;Python;JavaScript;PL/SQL&font=Fira%20Code&color=%FFFFFFFF&center=true&width=500&height=50"></p>
+
+I'm Luis Miguel, on the internet you can call me **Komma**, a Spanish developer who enjoys building projects such as C# or PHP REST APIs, Android Java apps, Windows Forms programs, Linux Bash scripts and even Unity games!
+## <img src="https://github.com/LuisMiSanVe/LuisMiSanVe/blob/main/Resources/rocket.gif" width=35 height=35 alt="🚀"> About Me
+### <img src="https://github.com/LuisMiSanVe/LuisMiSanVe/blob/main/Resources/suitcase.gif" width=35 height=35 alt="💼"> Working as:
 Junior .NET Developer
-### 🔧 Tech Stack:
+### <img src="https://github.com/LuisMiSanVe/LuisMiSanVe/blob/main/Resources/wrench.gif" width=35 height=35 alt="🔧"> Tech Stack:
 - Languages: C#, Java, PHP, Python, JavaScript, PL/SQL
 - Web: HTML, CSS, XML, JSON
 - Frameworks: .NET Core, ASP.NET Core
 - Databases: SQL Server, PostgreSQL, MySQL
 - Technologies: Oauth 2.0, JWT Token, Gemini AI API, Swagger UI, Unity, PyTorch, Firebase, Cloudflare
 - Tools: XAMPP, Postman, Visual Studio, VS Code, Android Studio, NetBeans, Github Copilot X, DevOps
-## 📚 Projects
-I’ll be uploading (and updating!) projects I develop. Most are designed to serve as starting templates for your own projects. Here’s a sneak peek of some interesting things I worked on:
+## <img src="https://github.com/LuisMiSanVe/LuisMiSanVe/blob/main/Resources/books.gif" width=35 height=35 alt="📚"> Projects
+I’ll be uploading (and updating!) projects I develop. Here’s a sneak peek of some interesting things I worked on:
 > [!NOTE]
 > All possible sensitive and confidential data is removed before uploading.
-- [C# REST API with OAuth 2.0:](https://github.com/LuisMiSanVe/OAuth_API)\
-  A secure API that requires users to log in to access endpoints using JWT Bearer Tokens, which are validated with OAuth 2.0.
 
-- [GeminiPostSQL | AI-Assisted Database WinForms:](https://github.com/LuisMiSanVe/GeminiPostSQL)\
-  WinForms with a AI powered method to query a PostgreSQL database with natural language.
+<a align="left" href="https://github.com/LuisMiSanVe/OAuth_API" title="OAuth_API"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=luismisanve&repo=Oauth_API&theme=github_dark_dimmed&border_color=ffffff&border_radius=10"/>
+<br><br><br><br><br><br>
+<a align="left" href="https://github.com/LuisMiSanVe/GeminiPostSQL" title="GeminiPostSQL"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=luismisanve&repo=GeminiPostSQL&theme=github_dark_dimmed&border_color=ffffff&border_radius=10"/>
+<br><br><br><br><br><br>
+<a align="left" href="https://github.com/LuisMiSanVe/AutoUpdaterAndroid" title="AutoUpdaterAndroid"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=luismisanve&repo=AutoUpdaterAndroid&theme=github_dark_dimmed&border_color=ffffff&border_radius=10"/>
+<br><br><br><br><br>
 
-- [Java Android App that updates itself:](https://github.com/LuisMiSanVe/AutoUpdaterAndroid)\
-  Two projects with apps that update themselves using FTP.
-
-## 📫 Let's Connect
+## <img src="https://github.com/LuisMiSanVe/LuisMiSanVe/blob/main/Resources/mailbox.gif" width=35 height=35 alt="📫"> Let's Connect
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luis-miguel-s%C3%A1nchez-967024326/)
 [![image](https://img.shields.io/badge/StackExchange-1E5397?&style=for-the-badge&logo=StackExchange&logoColor=white)](https://stackexchange.com/users/25822412/luis-miguel-sánchez?tab=accounts)
 [![image](https://img.shields.io/badge/linktree-1de9b6?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/luismiguelsanchez)
