@@ -16,8 +16,8 @@ Junior .NET Developer
 - Web: HTML, CSS, XML, JSON
 - Frameworks: .NET Core, ASP.NET Core
 - Databases: SQL Server, PostgreSQL, MySQL
-- Technologies: Oauth 2.0, JWT Token, Gemini AI API, Swagger UI, Unity, PyTorch, Firebase, Cloudflare
-- Tools: XAMPP, Postman, Visual Studio, VS Code, Android Studio, NetBeans, Github Copilot X, DevOps, Ren'Py
+- Technologies: Oauth 2.0, JWT Token, Gemini AI API, Swagger UI, Unity, PyTorch, Firebase, Cloudflare, Ren'Py
+- Tools: XAMPP, Postman, Visual Studio, VS Code, Android Studio, NetBeans, Github Copilot X, DevOps
 ## <img src="https://github.com/LuisMiSanVe/LuisMiSanVe/blob/main/Resources/books.gif" width=35 height=35 alt="📚"> Projects
 I’ll be uploading (and updating!) projects I develop. Here’s a sneak peek of some interesting things I worked on:
 > [!NOTE]
