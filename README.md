@@ -7,7 +7,7 @@
 
 <p align="center"><img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+profile!;Check+out+my+work!;CSharp;Java;PHP;Python;JavaScript;PL/SQL&font=Fira%20Code&color=%FFFFFFFF&center=true&width=500&height=50"></p>
 
-I'm Luis Miguel, on the internet you can call me **Komma**, a Spanish developer who enjoys building projects such as C# or PHP REST APIs, Android Java apps, Windows Forms programs, Linux Bash scripts and even Unity games!
+I'm Luis Miguel, on the internet you can call me **Komma**, a Spanish developer who enjoys building projects such as C# or PHP REST APIs, Android Java apps, Windows Forms programs, Linux Bash scripts and even games in Unity and Ren'Py!
 ## <img src="https://github.com/LuisMiSanVe/LuisMiSanVe/blob/main/Resources/rocket.gif" width=35 height=35 alt="🚀"> About Me
 ### <img src="https://github.com/LuisMiSanVe/LuisMiSanVe/blob/main/Resources/suitcase.gif" width=35 height=35 alt="💼"> Working as:
 Junior .NET Developer
@@ -17,7 +17,7 @@ Junior .NET Developer
 - Frameworks: .NET Core, ASP.NET Core
 - Databases: SQL Server, PostgreSQL, MySQL
 - Technologies: Oauth 2.0, JWT Token, Gemini AI API, Swagger UI, Unity, PyTorch, Firebase, Cloudflare
-- Tools: XAMPP, Postman, Visual Studio, VS Code, Android Studio, NetBeans, Github Copilot X, DevOps
+- Tools: XAMPP, Postman, Visual Studio, VS Code, Android Studio, NetBeans, Github Copilot X, DevOps, Ren'Py
 ## <img src="https://github.com/LuisMiSanVe/LuisMiSanVe/blob/main/Resources/books.gif" width=35 height=35 alt="📚"> Projects
 I’ll be uploading (and updating!) projects I develop. Here’s a sneak peek of some interesting things I worked on:
 > [!NOTE]
