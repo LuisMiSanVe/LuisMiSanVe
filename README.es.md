@@ -7,7 +7,7 @@
 
 <p align="center"><img src="https://readme-typing-svg.herokuapp.com/?lines=¡Bienvenido+a+mi+perfil!;¡Échale+un+vistazo+a+mi+trabajo!;CSharp;Java;PHP;Python;JavaScript;PL/SQL&font=Fira%20Code&color=%FFFFFFFF&center=true&width=500&height=50"></p>
 
-Soy Luis Miguel, en Internet puedes llamarme Komma, soy un entusiasta desarrollador español que le encanta crear proyectos como REST APIs en C# o PHP, aplicaciones de Android con Java, programas de Windows Forms, Scripts Bash para Linux ¡e incluso juegos de Unity!
+Soy Luis Miguel, en Internet puedes llamarme Komma, soy un entusiasta desarrollador español que le encanta crear proyectos como REST APIs en C# o PHP, aplicaciones de Android con Java, programas de Windows Forms, Scripts Bash para Linux ¡e incluso juegos de Unity y Ren'Py!
 ## <img src="https://github.com/LuisMiSanVe/LuisMiSanVe/blob/main/Resources/rocket.gif" width=35 height=35 alt="🚀"> Sobre mi
 ### <img src="https://github.com/LuisMiSanVe/LuisMiSanVe/blob/main/Resources/suitcase.gif" width=35 height=35 alt="💼"> Trabajando como:
 Desarrollador Junior de .Net
@@ -17,7 +17,7 @@ Desarrollador Junior de .Net
 - Frameworks: .NET Core, ASP.NET Core
 - Bases de datos: SQL Server, PostgreSQL, MySQL
 - Tecnologías: OAuth 2.0, JWT Token, API de IA Gemini, Swagger UI, Unity, PyTorch, Firebase, Cloudflare
-- Herramientas: XAMPP, Postman, Visual Studio, VS Code, Android Studio, NetBeans, Github Copilot X, DevOps
+- Herramientas: XAMPP, Postman, Visual Studio, VS Code, Android Studio, NetBeans, Github Copilot X, DevOps, Ren'Py
 ## <img src="https://github.com/LuisMiSanVe/LuisMiSanVe/blob/main/Resources/books.gif" width=35 height=35 alt="📚"> Proyectos
 Subiré (¡y actualizaré!) los proyectos que vaya creando. La mayoría son plantillas diseñadas para que desarrolles tus propios proyectos. Aqui hay algunos ejemplos de cosas interesantes que he hecho:
 > [!NOTE]
