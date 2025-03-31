@@ -30,9 +30,10 @@ Subiré (¡y actualizaré!) los proyectos que vaya creando. La mayoría son plan
 <a align="left" href="https://github.com/LuisMiSanVe/AutoUpdaterAndroid" title="AutoUpdaterAndroid"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=luismisanve&repo=AutoUpdaterAndroid&theme=github_dark_dimmed&border_color=ffffff&border_radius=10"/>
 <br><br><br><br><br>
 
-## 📫 Contáctame
+## <img src="https://github.com/LuisMiSanVe/LuisMiSanVe/blob/main/Resources/mailbox.gif" width=35 height=35 alt="📫"> Contáctame
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luis-miguel-s%C3%A1nchez-967024326/)
 [![image](https://img.shields.io/badge/StackExchange-1E5397?&style=for-the-badge&logo=StackExchange&logoColor=white)](https://stackexchange.com/users/25822412/luis-miguel-sánchez?tab=accounts)
 [![image](https://img.shields.io/badge/linktree-1de9b6?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/luismiguelsanchez)
 [![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/LuisMiSanVe)
 [![image](https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white)](https://kommagames.itch.io/)
+[![image](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)](https://marketplace.visualstudio.com/publishers/luismisanvekomma)
