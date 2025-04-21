@@ -37,4 +37,4 @@ I’ll be uploading (and updating!) projects I develop. Here’s a sneak peek of
 [![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/LuisMiSanVe)
 [![image](https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white)](https://kommagames.itch.io/)
 [![image](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)](https://marketplace.visualstudio.com/publishers/luismisanvekomma)
-[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://gist.github.com/LuisMiSanVe)
+[![GitHub](https://img.shields.io/badge/gists-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://gist.github.com/LuisMiSanVe)
