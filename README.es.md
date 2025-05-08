@@ -5,19 +5,19 @@
 
 # <img src="https://github.com/LuisMiSanVe/LuisMiSanVe/blob/main/Resources/wave.gif" width=35 height=35 alt="👋"> Perfil de LuisMiSanVe/Komma
 
-<p align="center"><img src="https://readme-typing-svg.herokuapp.com/?lines=¡Bienvenido+a+mi+perfil!;¡Échale+un+vistazo+a+mi+trabajo!;CSharp;Java;PHP;Python;JavaScript;PL/SQL&font=Fira%20Code&color=%FFFFFFFF&center=true&width=500&height=50"></p>
+<p align="center"><img src="https://readme-typing-svg.herokuapp.com/?lines=¡Bienvenido+a+mi+perfil!;¡Échale+un+vistazo+a+mi+trabajo!;C%23;Java;PHP;Python;JavaScript;PL/SQL;Bash;HTML;CSS;XML;JSON;.NET;ASP+NET+Core;Blazor;SQL+Server;PostgreSQL;MySQL;OAuth+2.0;JWT;Gemini+AI+API;Swagger+UI;PyTorch;Firebase;Cloudflare;Jupyter;WinForms;XAMPP;Postman;Visual+Studio;VS+Code;Android+Studio;NetBeans;Github+Copilot+X;DevOps;Unity;Ren'Py;Godot&font=Fira%20Code&color=%FFFFFFFF&center=true&width=500&height=50"></p>
 
-Soy Luis Miguel, en Internet puedes llamarme Komma, soy un entusiasta desarrollador español que le encanta crear proyectos como REST APIs en C# o PHP, aplicaciones de Android con Java, programas de Windows Forms, Scripts Bash para Linux ¡e incluso juegos de Unity y Ren'Py!
+Soy Luis Miguel, en Internet puedes llamarme Komma, soy un entusiasta desarrollador español que le encanta crear proyectos como REST APIs, aplicaciones de Android, programas de Escritorio o en Web, Scripts ¡e incluso juegos!
 ## <img src="https://github.com/LuisMiSanVe/LuisMiSanVe/blob/main/Resources/rocket.gif" width=35 height=35 alt="🚀"> Sobre mi
 ### <img src="https://github.com/LuisMiSanVe/LuisMiSanVe/blob/main/Resources/suitcase.gif" width=35 height=35 alt="💼"> Trabajando como:
 Desarrollador Junior de .Net
 ### <img src="https://github.com/LuisMiSanVe/LuisMiSanVe/blob/main/Resources/wrench.gif" width=35 height=35 alt="🔧"> Tecnologías conocidas:
-- Lenguajes: C#, Java, PHP, Python, JavaScript, PL/SQL
+- Lenguajes: C#, Java, PHP, Python, JavaScript, PL/SQL, Bash
 - Web: HTML, CSS, XML, JSON
-- Frameworks: .NET Core, ASP.NET Core
+- Frameworks: .NET Core, ASP.NET Core, Blazor
 - Bases de datos: SQL Server, PostgreSQL, MySQL
-- Tecnologías: OAuth 2.0, JWT Token, API de IA Gemini, Swagger UI, Unity, PyTorch, Firebase, Cloudflare, Ren'Py
-- Herramientas: XAMPP, Postman, Visual Studio, VS Code, Android Studio, NetBeans, Github Copilot X, DevOps
+- Tecnologías: OAuth 2.0, JWT Token, Gemini AI API, Swagger UI, PyTorch, Firebase, Cloudflare, Jupyter, WinForms
+- Herramientas: XAMPP, Postman, Visual Studio, VS Code, Android Studio, NetBeans, Github Copilot X, DevOps, Unity, Ren'Py, Godot
 ## <img src="https://github.com/LuisMiSanVe/LuisMiSanVe/blob/main/Resources/books.gif" width=35 height=35 alt="📚"> Proyectos
 Subiré (¡y actualizaré!) los proyectos que vaya creando. La mayoría son plantillas diseñadas para que desarrolles tus propios proyectos. Aqui hay algunos ejemplos de cosas interesantes que he hecho:
 > [!NOTE]
