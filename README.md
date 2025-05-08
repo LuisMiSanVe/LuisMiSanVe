@@ -5,19 +5,19 @@
 
 # <img src="https://github.com/LuisMiSanVe/LuisMiSanVe/blob/main/Resources/wave.gif" width=35 height=35 alt="👋"> LuisMiSanVe/Komma's profile
 
-<p align="center"><img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+profile!;Check+out+my+work!;CSharp;Java;PHP;Python;JavaScript;PL/SQL&font=Fira%20Code&color=%FFFFFFFF&center=true&width=500&height=50"></p>
+<p align="center"><img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+profile!;Check+out+my+work!;C%23;Java;PHP;Python;JavaScript;PL/SQL;Bash;HTML;CSS;XML;JSON;.NET;ASP+NET+Core;Blazor;SQL+Server;PostgreSQL;MySQL;OAuth+2.0;JWT;Gemini+AI+API;Swagger+UI;PyTorch;Firebase;Cloudflare;Jupyter;WinForms;XAMPP;Postman;Visual+Studio;VS+Code;Android+Studio;NetBeans;Github+Copilot+X;DevOps;Unity;Ren'Py;Godot&font=Fira%20Code&color=%FFFFFFFF&center=true&width=500&height=50"></p>
 
-I'm Luis Miguel, on the internet you can call me **Komma**, a Spanish developer who enjoys building projects such as C# or PHP REST APIs, Android Java apps, Windows Forms programs, Linux Bash scripts and even games in Unity and Ren'Py!
+I'm Luis Miguel, on the internet you can call me **Komma**, a Spanish developer who enjoys building projects such as REST APIs, Android apps, Desktop or Web programs, Scripts and even games!
 ## <img src="https://github.com/LuisMiSanVe/LuisMiSanVe/blob/main/Resources/rocket.gif" width=35 height=35 alt="🚀"> About Me
 ### <img src="https://github.com/LuisMiSanVe/LuisMiSanVe/blob/main/Resources/suitcase.gif" width=35 height=35 alt="💼"> Working as:
 Junior .NET Developer
 ### <img src="https://github.com/LuisMiSanVe/LuisMiSanVe/blob/main/Resources/wrench.gif" width=35 height=35 alt="🔧"> Tech Stack:
-- Languages: C#, Java, PHP, Python, JavaScript, PL/SQL
+- Languages: C#, Java, PHP, Python, JavaScript, PL/SQL, Bash
 - Web: HTML, CSS, XML, JSON
-- Frameworks: .NET Core, ASP.NET Core
+- Frameworks: .NET Core, ASP.NET Core, Blazor
 - Databases: SQL Server, PostgreSQL, MySQL
-- Technologies: Oauth 2.0, JWT Token, Gemini AI API, Swagger UI, Unity, PyTorch, Firebase, Cloudflare, Ren'Py
-- Tools: XAMPP, Postman, Visual Studio, VS Code, Android Studio, NetBeans, Github Copilot X, DevOps
+- Technologies: OAuth 2.0, JWT Token, Gemini AI API, Swagger UI, PyTorch, Firebase, Cloudflare, Jupyter, WinForms
+- Tools: XAMPP, Postman, Visual Studio, VS Code, Android Studio, NetBeans, Github Copilot X, DevOps, Unity, Ren'Py, Godot
 ## <img src="https://github.com/LuisMiSanVe/LuisMiSanVe/blob/main/Resources/books.gif" width=35 height=35 alt="📚"> Projects
 I’ll be uploading (and updating!) projects I develop. Here’s a sneak peek of some interesting things I worked on:
 > [!NOTE]
