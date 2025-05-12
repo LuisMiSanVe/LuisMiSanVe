@@ -1,5 +1,5 @@
 > [See in spanish/Ver en español](https://github.com/LuisMiSanVe/LuisMiSanVe/blob/main/README.es.md)\
-> All repositories have English and Spanish versions!
+> All repositories have English and Spanish versions! Corrected by [my wife](https://github.com/meowwan)
 
 <p align="center"><img src="https://github.com/LuisMiSanVe/LuisMiSanVe/blob/main/Resources/komma.gif" style="width: 75%; height: auto;" alt="Komma"></p>
 
