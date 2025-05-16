@@ -12,12 +12,12 @@ Soy Luis Miguel, en Internet puedes llamarme Komma, soy un entusiasta desarrolla
 ### <img src="https://github.com/LuisMiSanVe/LuisMiSanVe/blob/main/Resources/suitcase.gif" width=35 height=35 alt="💼"> Trabajando como:
 Desarrollador Junior de .Net
 ### <img src="https://github.com/LuisMiSanVe/LuisMiSanVe/blob/main/Resources/wrench.gif" width=35 height=35 alt="🔧"> Tecnologías conocidas:
-- Lenguajes: C#, Java, PHP, Python, JavaScript, PL/SQL, Bash
-- Web: HTML, CSS, XML, JSON
-- Frameworks: .NET Core, ASP.NET Core, Blazor
-- Bases de datos: SQL Server, PostgreSQL, MySQL
-- Tecnologías: OAuth 2.0, JWT Token, Gemini AI API, Swagger UI, PyTorch, Firebase, Cloudflare, Jupyter, WinForms
-- Herramientas: XAMPP, Postman, Visual Studio, VS Code, Android Studio, NetBeans, Github Copilot X, DevOps, Unity, Ren'Py, Godot
+- **Lenguajes**: C#, Java, PHP, Python, JavaScript, PL/SQL, Bash
+- **Web**: HTML, CSS, XML, JSON
+- **Frameworks**: .NET Core, ASP.NET Core, Blazor
+- **Bases de datos**: SQL Server, PostgreSQL, MySQL
+- **Tecnologías**: OAuth 2.0, JWT Token, Gemini AI API, Swagger UI, PyTorch, Firebase, Cloudflare, Jupyter, WinForms
+- **Herramientas**: XAMPP, Postman, Visual Studio, VS Code, Android Studio, NetBeans, Github Copilot X, DevOps, Unity, Ren'Py, Godot, Unreal Engine
 ## <img src="https://github.com/LuisMiSanVe/LuisMiSanVe/blob/main/Resources/books.gif" width=35 height=35 alt="📚"> Proyectos
 Subiré (¡y actualizaré!) los proyectos que vaya creando. La mayoría son plantillas diseñadas para que desarrolles tus propios proyectos. Aqui hay algunos ejemplos de cosas interesantes que he hecho:
 > [!NOTE]
