@@ -7,4 +7,4 @@
 - <img src="https://github.com/LuisMiSanVe/LuisMiSanVe/blob/main/Resources/books.gif" width=35 height=35 alt="📚">: [Giphy](https://giphy.com/explore/drop-some-knowledge-stickers)
 - <img src="https://github.com/LuisMiSanVe/LuisMiSanVe/blob/main/Resources/mailbox.gif" width=35 height=35 alt="📫">: [baamboozle](https://www.baamboozle.com/game/959396?page=3)
 
-The rest of resources used in my repositories are made by me or are duly credited to their source.
+The rest of resources used in my repositories are made by me or are duly credited to their source in the corresponding repository.
