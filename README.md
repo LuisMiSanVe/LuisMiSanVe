@@ -20,14 +20,12 @@ Junior .NET Developer
 - **Tools**: XAMPP, Postman, Visual Studio, VS Code, Android Studio, NetBeans, Github Copilot X, DevOps, Unity, Ren'Py, Godot, Unreal Engine
 ## <img src="https://github.com/LuisMiSanVe/LuisMiSanVe/blob/main/Resources/books.gif" width=35 height=35 alt="📚"> Projects
 I’ll be uploading (and updating!) projects I develop. Here’s a sneak peek of some interesting things I worked on:
-> [!NOTE]
-> All possible sensitive and confidential data is removed before uploading.
 
-<a align="left" href="https://github.com/LuisMiSanVe/OAuth_API" title="OAuth_API"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=luismisanve&repo=Oauth_API&theme=github_dark_dimmed&border_color=ffffff&border_radius=10"/>
+<a align="left" href="https://github.com/LuisMiSanVe/OAuth_API" title="OAuth_API"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=luismisanve&repo=Oauth_API&theme=github_dark_dimmed&border_color=ffffff&border_radius=9"/>
 <br><br><br><br><br><br>
-<a align="left" href="https://github.com/LuisMiSanVe/GeminiPostSQL" title="GeminiPostSQL"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=luismisanve&repo=GeminiPostSQL&theme=github_dark_dimmed&border_color=ffffff&border_radius=10"/>
+<a align="left" href="https://github.com/LuisMiSanVe/GeminiPostSQL" title="GeminiPostSQL"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=luismisanve&repo=GeminiPostSQL&theme=github_dark_dimmed&border_color=ffffff&border_radius=9"/>
 <br><br><br><br><br><br>
-<a align="left" href="https://github.com/LuisMiSanVe/AutoUpdaterAndroid" title="AutoUpdaterAndroid"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=luismisanve&repo=AutoUpdaterAndroid&theme=github_dark_dimmed&border_color=ffffff&border_radius=10"/>
+<a align="left" href="https://github.com/LuisMiSanVe/AutoUpdaterAndroid" title="AutoUpdaterAndroid"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=luismisanve&repo=AutoUpdaterAndroid&theme=github_dark_dimmed&border_color=ffffff&border_radius=9"/>
 <br><br><br><br><br>
 
 ## <img src="https://github.com/LuisMiSanVe/LuisMiSanVe/blob/main/Resources/mailbox.gif" width=35 height=35 alt="📫"> Let's Connect
