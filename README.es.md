@@ -7,7 +7,7 @@
 
 <p align="center"><img src="https://readme-typing-svg.herokuapp.com/?lines=¡Bienvenido+a+mi+perfil!;¡Échale+un+vistazo+a+mi+trabajo!;C%23;Java;PHP;Python;JavaScript;PL/SQL;Bash;HTML;CSS;XML;JSON;.NET;ASP+NET+Core;Blazor;SQL+Server;PostgreSQL;MySQL;OAuth+2.0;JWT;Gemini+AI+API;Swagger+UI;PyTorch;Firebase;Cloudflare;Jupyter;WinForms;XAMPP;Postman;Visual+Studio;VS+Code;Android+Studio;NetBeans;Github+Copilot+X;DevOps;Unity;Ren'Py;Godot&font=Fira%20Code&color=%FFFFFFFF&center=true&width=500&height=50"></p>
 
-Soy Luis Miguel, en Internet puedes llamarme Komma, soy un entusiasta desarrollador español que le encanta crear proyectos como REST APIs, aplicaciones de Android, programas de Escritorio o en Web, Scripts ¡e incluso juegos!
+Soy Luis Miguel, en Internet puedes llamarme **Komma**, soy un entusiasta desarrollador español que le encanta crear proyectos como REST APIs, aplicaciones de Android, programas de Escritorio o en Web, Scripts ¡e incluso juegos!
 ## <img src="https://github.com/LuisMiSanVe/LuisMiSanVe/blob/main/Resources/rocket.gif" width=35 height=35 alt="🚀"> Sobre mi
 ### <img src="https://github.com/LuisMiSanVe/LuisMiSanVe/blob/main/Resources/suitcase.gif" width=35 height=35 alt="💼"> Trabajando como:
 Desarrollador Junior de .Net
@@ -19,15 +19,13 @@ Desarrollador Junior de .Net
 - **Tecnologías**: OAuth 2.0, JWT Token, Gemini AI API, Swagger UI, PyTorch, Firebase, Cloudflare, Jupyter, WinForms
 - **Herramientas**: XAMPP, Postman, Visual Studio, VS Code, Android Studio, NetBeans, Github Copilot X, DevOps, Unity, Ren'Py, Godot, Unreal Engine
 ## <img src="https://github.com/LuisMiSanVe/LuisMiSanVe/blob/main/Resources/books.gif" width=35 height=35 alt="📚"> Proyectos
-Subiré (¡y actualizaré!) los proyectos que vaya creando. La mayoría son plantillas diseñadas para que desarrolles tus propios proyectos. Aqui hay algunos ejemplos de cosas interesantes que he hecho:
-> [!NOTE]
-> Toda la posible información sensible y confidencial ha sido eliminada antes de subirse.
+Subiré (¡y actualizaré!) los proyectos que vaya creando. Aqui hay algunos ejemplos de cosas interesantes que he hecho:
 
-<a align="left" href="https://github.com/LuisMiSanVe/OAuth_API" title="OAuth_API"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=luismisanve&repo=Oauth_API&theme=github_dark_dimmed&border_color=ffffff&border_radius=10"/>
+<a align="left" href="https://github.com/LuisMiSanVe/OAuth_API" title="OAuth_API"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=luismisanve&repo=Oauth_API&theme=github_dark_dimmed&border_color=ffffff&border_radius=9"/>
 <br><br><br><br><br><br>
-<a align="left" href="https://github.com/LuisMiSanVe/GeminiPostSQL" title="GeminiPostSQL"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=luismisanve&repo=GeminiPostSQL&theme=github_dark_dimmed&border_color=ffffff&border_radius=10"/>
+<a align="left" href="https://github.com/LuisMiSanVe/GeminiPostSQL" title="GeminiPostSQL"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=luismisanve&repo=GeminiPostSQL&theme=github_dark_dimmed&border_color=ffffff&border_radius=9"/>
 <br><br><br><br><br><br>
-<a align="left" href="https://github.com/LuisMiSanVe/AutoUpdaterAndroid" title="AutoUpdaterAndroid"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=luismisanve&repo=AutoUpdaterAndroid&theme=github_dark_dimmed&border_color=ffffff&border_radius=10"/>
+<a align="left" href="https://github.com/LuisMiSanVe/AutoUpdaterAndroid" title="AutoUpdaterAndroid"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=luismisanve&repo=AutoUpdaterAndroid&theme=github_dark_dimmed&border_color=ffffff&border_radius=9"/>
 <br><br><br><br><br>
 
 ## <img src="https://github.com/LuisMiSanVe/LuisMiSanVe/blob/main/Resources/mailbox.gif" width=35 height=35 alt="📫"> Contáctame
