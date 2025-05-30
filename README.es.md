@@ -5,7 +5,7 @@
 
 # <img src="https://github.com/LuisMiSanVe/LuisMiSanVe/blob/main/Resources/wave.gif" width=35 height=35 alt="👋"> Perfil de LuisMiSanVe/Komma
 
-<p align="center"><img src="https://readme-typing-svg.herokuapp.com/?lines=¡Bienvenido+a+mi+perfil!;¡Échale+un+vistazo+a+mi+trabajo!;C%23;Java;PHP;Python;JavaScript;PL/SQL;Bash;HTML;CSS;XML;JSON;.NET;ASP+NET+Core;Blazor;SQL+Server;PostgreSQL;MySQL;OAuth+2.0;JWT;Gemini+AI+API;Swagger+UI;PyTorch;Firebase;Cloudflare;Jupyter;WinForms;XAMPP;Postman;Visual+Studio;VS+Code;Android+Studio;NetBeans;Github+Copilot+X;DevOps;Unity;Ren'Py;Godot&font=Fira%20Code&color=%FFFFFFFF&center=true&width=500&height=50"></p>
+<p align="center"><img src="https://readme-typing-svg.herokuapp.com/?lines=¡Bienvenido+a+mi+perfil!;¡Échale+un+vistazo+a+mi+trabajo!;C%23;Java;PHP;Python;JavaScript;PL/SQL;Bash;HTML;CSS;XML;JSON;.NET;ASP+NET+Core;Blazor;SQL+Server;PostgreSQL;MySQL;OAuth+2.0;JWT;Gemini+AI+API;Swagger+UI;PyTorch;Firebase;Cloudflare;Jupyter;WinForms;JPanel;Tkinter;XAMPP;Postman;Visual+Studio;VS+Code;Android+Studio;NetBeans;Github+Copilot+X;DevOps;Unity;Ren'Py;Godot&font=Fira%20Code&color=%FFFFFFFF&center=true&width=500&height=50"></p>
 
 Soy Luis Miguel, en Internet puedes llamarme **Komma**, soy un entusiasta desarrollador español que le encanta crear proyectos como REST APIs, aplicaciones de Android, programas de Escritorio o en Web, Scripts ¡e incluso juegos!
 ## <img src="https://github.com/LuisMiSanVe/LuisMiSanVe/blob/main/Resources/rocket.gif" width=35 height=35 alt="🚀"> Sobre mi
@@ -16,7 +16,7 @@ Desarrollador Junior de .Net
 - **Web**: HTML, CSS, XML, JSON
 - **Frameworks**: .NET Core, ASP.NET Core, Blazor
 - **Bases de datos**: SQL Server, PostgreSQL, MySQL
-- **Tecnologías**: OAuth 2.0, JWT Token, Gemini AI API, Swagger UI, PyTorch, Firebase, Cloudflare, Jupyter, WinForms
+- **Tecnologías**: OAuth 2.0, JWT Token, Gemini AI API, Swagger UI, PyTorch, Firebase, Cloudflare, Jupyter, WinForms, JPanel, Tkinter
 - **Herramientas**: XAMPP, Postman, Visual Studio, VS Code, Android Studio, NetBeans, Github Copilot X, DevOps, Unity, Ren'Py, Godot, Unreal Engine
 ## <img src="https://github.com/LuisMiSanVe/LuisMiSanVe/blob/main/Resources/books.gif" width=35 height=35 alt="📚"> Proyectos
 Subiré (¡y actualizaré!) los proyectos que vaya creando. Aqui hay algunos ejemplos de cosas interesantes que he hecho:
