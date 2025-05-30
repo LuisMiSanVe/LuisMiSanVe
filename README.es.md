@@ -36,3 +36,4 @@ Subiré (¡y actualizaré!) los proyectos que vaya creando. Aqui hay algunos eje
 [![image](https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white)](https://kommagames.itch.io/)
 [![image](https://img.shields.io/badge/VS_Marketplace-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)](https://marketplace.visualstudio.com/publishers/luismisanvekomma)
 [![GitHub](https://img.shields.io/badge/gists-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://gist.github.com/LuisMiSanVe)
+[![NuGet](https://img.shields.io/badge/NuGet-%23004880.svg?style=for-the-badge&logo=nuget&logoColor=white)](https://www.nuget.org/profiles/LuisMiSanVe_Komma)
