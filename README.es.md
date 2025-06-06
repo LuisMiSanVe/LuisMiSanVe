@@ -19,14 +19,11 @@ Desarrollador Junior de .Net
 - **Tecnologías**: OAuth 2.0, JWT Token, Gemini AI API, Swagger UI, PyTorch, Firebase, Cloudflare, Jupyter, WinForms, JPanel, Tkinter
 - **Herramientas**: XAMPP, Postman, Visual Studio, VS Code, Android Studio, NetBeans, Github Copilot X, DevOps, Unity, Ren'Py, Godot, Unreal Engine
 ## <img src="https://github.com/LuisMiSanVe/LuisMiSanVe/blob/main/Resources/books.gif" width=35 height=35 alt="📚"> Proyectos
-Subiré (¡y actualizaré!) los proyectos que vaya creando. Aqui hay algunos ejemplos de cosas interesantes que he hecho:
+Subiré (¡y actualizaré!) los proyectos que vaya creando. ¡Échale un vistazo a las cosas interesantes que he hecho!
 
-<a align="left" href="https://github.com/LuisMiSanVe/OAuth_API" title="OAuth_API"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=luismisanve&repo=Oauth_API&theme=github_dark_dimmed&border_color=ffffff&border_radius=9"/>
-<br><br><br><br><br><br>
-<a align="left" href="https://github.com/LuisMiSanVe/GeminiPostSQL" title="GeminiPostSQL"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=luismisanve&repo=GeminiPostSQL&theme=github_dark_dimmed&border_color=ffffff&border_radius=9"/>
-<br><br><br><br><br><br>
-<a align="left" href="https://github.com/LuisMiSanVe/AutoUpdaterAndroid" title="AutoUpdaterAndroid"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=luismisanve&repo=AutoUpdaterAndroid&theme=github_dark_dimmed&border_color=ffffff&border_radius=9"/>
-<br><br><br><br><br>
+[![LuisMiSanVe&Komma's GitHub stats](https://github-readme-stats.vercel.app/api?username=LuisMiSanVe&show_icons=true&theme=transparent&border_color=ffffff&border_radius=9&hide=contribs,prs)](https://github.com/LuisMiSanVe?tab=repositories)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuisMiSanVe&layout=donut&theme=transparent&border_color=ffffff&border_radius=9)](https://github.com/LuisMiSanVe?tab=repositories)
 
 ## <img src="https://github.com/LuisMiSanVe/LuisMiSanVe/blob/main/Resources/mailbox.gif" width=35 height=35 alt="📫"> Contáctame
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luis-miguel-s%C3%A1nchez-967024326/)
