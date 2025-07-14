@@ -26,6 +26,8 @@ Subiré (¡y actualizaré!) los proyectos que vaya creando. ¡Échale un vistazo
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuisMiSanVe&layout=donut&theme=transparent&border_color=ffffff&border_radius=9)](https://github.com/LuisMiSanVe?tab=repositories)
 
 ## <img src="https://github.com/LuisMiSanVe/LuisMiSanVe/blob/main/Resources/mailbox.gif" width=35 height=35 alt="📫"> Contáctame
+Mis otros perfiles:
+
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luis-miguel-s%C3%A1nchez-967024326/)
 [![image](https://img.shields.io/badge/StackExchange-1E5397?&style=for-the-badge&logo=StackExchange&logoColor=white)](https://stackexchange.com/users/25822412/luis-miguel-sánchez?tab=accounts)
 [![image](https://img.shields.io/badge/linktree-1de9b6?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/luismiguelsanchez)
@@ -34,3 +36,7 @@ Subiré (¡y actualizaré!) los proyectos que vaya creando. ¡Échale un vistazo
 [![image](https://img.shields.io/badge/VS_Marketplace-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)](https://marketplace.visualstudio.com/publishers/luismisanvekomma)
 [![GitHub](https://img.shields.io/badge/gists-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://gist.github.com/LuisMiSanVe)
 [![NuGet](https://img.shields.io/badge/NuGet-%23004880.svg?style=for-the-badge&logo=nuget&logoColor=white)](https://www.nuget.org/profiles/LuisMiSanVe_Komma)
+
+¡También puedes apoyarme si te gusta lo que ves!
+
+[![sponsor](https://img.shields.io/badge/Sponsor-%23121011.svg?style=for-the-badge&logo=GitHub%20Sponsors&logoColor=ff84ff)](https://github.com/sponsors/LuisMiSanVe)
