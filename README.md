@@ -36,6 +36,8 @@ My other profiles:
 [![image](https://img.shields.io/badge/VS_Marketplace-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)](https://marketplace.visualstudio.com/publishers/luismisanvekomma)
 [![GitHub](https://img.shields.io/badge/gists-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://gist.github.com/LuisMiSanVe)
 [![NuGet](https://img.shields.io/badge/NuGet-%23004880.svg?style=for-the-badge&logo=nuget&logoColor=white)](https://www.nuget.org/profiles/LuisMiSanVe_Komma)
+[![YouTube](https://img.shields.io/badge/YouTube-%23ff0000.svg?style=for-the-badge&logo=YouTube&logoColor=ffffff)](https://www.youtube.com/@KommaGames)
+[![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=blue)](https://steamcommunity.com/id/kommavideogames/)
 
 You can also sponsor me if you like what you see!
 
