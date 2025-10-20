@@ -38,6 +38,7 @@ Mis otros perfiles:
 [![NuGet](https://img.shields.io/badge/NuGet-%23004880.svg?style=for-the-badge&logo=nuget&logoColor=white)](https://www.nuget.org/profiles/LuisMiSanVe_Komma)
 [![YouTube](https://img.shields.io/badge/YouTube-%23ff0000.svg?style=for-the-badge&logo=YouTube&logoColor=ffffff)](https://www.youtube.com/@KommaGames)
 [![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=blue)](https://steamcommunity.com/id/kommavideogames/)
+[![Google](https://img.shields.io/badge/Google%20Devs-%23ffffff.svg?style=for-the-badge&logo=Google&logoColor=4285f4)](https://developers.google.com/profile/u/112781218729924542620)
 
 ¡También puedes apoyarme si te gusta lo que ves!
 
