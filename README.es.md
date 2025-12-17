@@ -36,6 +36,7 @@ Mis otros perfiles:
 [![image](https://img.shields.io/badge/VS_Marketplace-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)](https://marketplace.visualstudio.com/publishers/luismisanvekomma)
 [![GitHub](https://img.shields.io/badge/gists-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://gist.github.com/LuisMiSanVe)
 [![NuGet](https://img.shields.io/badge/NuGet-%23004880.svg?style=for-the-badge&logo=nuget&logoColor=white)](https://www.nuget.org/profiles/LuisMiSanVe_Komma)
+[![HuggingFace](https://img.shields.io/badge/Hugging%20Face-%23000040.svg?style=for-the-badge&logo=Hugging%20Face&logoColor=ffdf00)](https://huggingface.co/Komma-LuisMiSanVe)
 [![YouTube](https://img.shields.io/badge/YouTube-%23ff0000.svg?style=for-the-badge&logo=YouTube&logoColor=ffffff)](https://www.youtube.com/@KommaGames)
 [![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=blue)](https://steamcommunity.com/id/kommavideogames/)
 [![Google](https://img.shields.io/badge/Google%20Devs-%23ffffff.svg?style=for-the-badge&logo=Google&logoColor=4285f4)](https://g.dev/luismisanve)
