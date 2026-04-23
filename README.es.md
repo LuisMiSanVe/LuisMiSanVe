@@ -40,6 +40,7 @@ Mis otros perfiles:
 [![YouTube](https://img.shields.io/badge/YouTube-%23ff0000.svg?style=for-the-badge&logo=YouTube&logoColor=ffffff)](https://www.youtube.com/@KommaGames)
 [![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=blue)](https://steamcommunity.com/id/kommavideogames/)
 [![Google](https://img.shields.io/badge/Google%20Devs-%23ffffff.svg?style=for-the-badge&logo=Google&logoColor=4285f4)](https://g.dev/luismisanve)
+[![Microsoft](https://img.shields.io/badge/Microsoft%20learn-%233a6dd2.svg?style=for-the-badge&logoColor=ffffff)](https://learn.microsoft.com/es-es/users/luismisanve/)
 
 ¡También puedes apoyarme si te gusta lo que ves!
 
