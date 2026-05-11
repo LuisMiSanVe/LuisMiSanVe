@@ -21,7 +21,7 @@ Desarrollador Junior de .Net
 ## <img src="https://github.com/LuisMiSanVe/LuisMiSanVe/blob/main/Resources/books.gif" width=35 height=35 alt="📚"> Proyectos
 Subiré (¡y actualizaré!) los proyectos que vaya creando. ¡Échale un vistazo a las cosas interesantes que he hecho!
 
-[![LuisMiSanVe&Komma's GitHub stats](https://github-readme-stats-delta-two-21.vercel.app/api?username=LuisMiSanVe&show_icons=true&theme=transparent&border_color=ffffff&border_radius=9&hide=contribs,prs)](https://github.com/LuisMiSanVe?tab=repositories)
+[![LuisMiSanVe&Komma's GitHub stats](https://github-readme-stats-delta-two-21.vercel.app/api?username=LuisMiSanVe&show_icons=true&theme=transparent&border_color=ffffff&border_radius=9&hide=contribs&include_all_commits=true)](https://github.com/LuisMiSanVe?tab=repositories)
 
 [![Top Langs](https://github-readme-stats-delta-two-21.vercel.app/api/top-langs/?username=LuisMiSanVe&layout=donut&theme=transparent&border_color=ffffff&border_radius=9)](https://github.com/LuisMiSanVe?tab=repositories)
 
