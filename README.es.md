@@ -1,5 +1,5 @@
-> [Ver en ingles/See in english](https://github.com/LuisMiSanVe/LuisMiSanVe/blob/main/README.md)\
-> ¡Todos los repositorios tienen versiones en inglés y español! Corregidas por [mi esposa](https://github.com/meowwan)
+> Idiomas: [🇺🇸 Inglés](https://github.com/LuisMiSanVe/LuisMiSanVe/blob/main/README.md) | [🇪🇸 Español](https://github.com/LuisMiSanVe/LuisMiSanVe/blob/main/README.es.md) | [🇯🇵 Japonés](https://github.com/LuisMiSanVe/LuisMiSanVe/blob/main/README.jp.md)\
+> ¡Todos los README de los repositorios tienen versiones en inglés, español y japonés! Veriones en inglés corregidas por [mi esposa](https://github.com/meowwan).
 
 <p align="center"><img src="https://github.com/LuisMiSanVe/LuisMiSanVe/blob/main/Resources/komma.gif" style="width: 75%; height: auto;" alt="Komma"></p>
 
