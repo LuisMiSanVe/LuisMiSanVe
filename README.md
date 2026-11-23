@@ -28,20 +28,22 @@ I’ll be uploading (and updating!) projects I develop. Check out the interestin
 ## <img src="https://github.com/LuisMiSanVe/LuisMiSanVe/blob/main/Resources/mailbox.gif" width=35 height=35 alt="📫"> Let's Connect
 My other profiles:
 
-[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luis-miguel-s%C3%A1nchez-967024326/)
-[![image](https://img.shields.io/badge/StackExchange-1E5397?&style=for-the-badge&logo=StackExchange&logoColor=white)](https://stackexchange.com/users/25822412/luis-miguel-sánchez?tab=accounts)
-[![image](https://img.shields.io/badge/linktree-1de9b6?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/luismiguelsanchez)
-[![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/LuisMiSanVe)
-[![image](https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white)](https://kommagames.itch.io/)
-[![image](https://img.shields.io/badge/VS_Marketplace-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)](https://marketplace.visualstudio.com/publishers/luismisanvekomma)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luis-miguel-s%C3%A1nchez-967024326/)
+[![StackExchange](https://img.shields.io/badge/StackExchange-1E5397?&style=for-the-badge&logo=StackExchange&logoColor=white)](https://stackexchange.com/users/25822412/luis-miguel-sánchez?tab=accounts)
+[![LinkTree](https://img.shields.io/badge/linktree-1de9b6?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/luismiguelsanchez)
+[![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=fc7735)](https://gitlab.com/LuisMiSanVe)
+[![Itchio](https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white)](https://kommagames.itch.io/)
+[![VSMarketplace](https://img.shields.io/badge/VS_Marketplace-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)](https://marketplace.visualstudio.com/publishers/luismisanvekomma)
 [![GitHub](https://img.shields.io/badge/gists-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://gist.github.com/LuisMiSanVe)
 [![NuGet](https://img.shields.io/badge/NuGet-%23004880.svg?style=for-the-badge&logo=nuget&logoColor=white)](https://www.nuget.org/profiles/LuisMiSanVe_Komma)
-[![Google Play](https://img.shields.io/badge/Google%20Play%20Store-%23ffffff.svg?style=for-the-badge&logo=Google%20Play&logoColor=3aaa58)](https://play.google.com/store/apps/dev?id=8302426077898344904&pli=1)
 [![HuggingFace](https://img.shields.io/badge/Hugging%20Face-%23000040.svg?style=for-the-badge&logo=Hugging%20Face&logoColor=ffdf00)](https://huggingface.co/Komma-LuisMiSanVe)
+[![AILounge](https://img.shields.io/badge/AI%20Lounge-%23fc734d.svg?style=for-the-badge&logoColor=ffffff)](https://ai.lounge.ai/@luismisanve)
 [![YouTube](https://img.shields.io/badge/YouTube-%23ff0000.svg?style=for-the-badge&logo=YouTube&logoColor=ffffff)](https://www.youtube.com/@KommaGames)
 [![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=blue)](https://steamcommunity.com/id/kommavideogames/)
 [![Google](https://img.shields.io/badge/Google%20Devs-%23ffffff.svg?style=for-the-badge&logo=Google&logoColor=4285f4)](https://g.dev/luismisanve)
 [![Microsoft](https://img.shields.io/badge/Microsoft%20learn-%233a6dd2.svg?style=for-the-badge&logoColor=ffffff)](https://learn.microsoft.com/es-es/users/luismisanve/)
+[![Google Play](https://img.shields.io/badge/Google%20Play%20Store-%23ffffff.svg?style=for-the-badge&logo=Google%20Play&logoColor=3aaa58)](https://play.google.com/store/apps/dev?id=8302426077898344904&pli=1)
+[![F-Droid](https://img.shields.io/badge/F--Droid-%231976d5.svg?style=for-the-badge&logo=F-Droid&logoColor=b1eb0b)](https://f-droid.org/packages/com.luismisanve.langtosql)
 
 You can also sponsor me if you like what you see!
 
